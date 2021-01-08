@@ -3,7 +3,7 @@
 ## 数据结构
 - 数组
 
-1.[合并区间](https://github.com/Shen-Q/LeetCode/blob/master/src/leetcode/editor/cn/P56MergeIntervals.java)  
+    1.[合并区间](https://github.com/Shen-Q/LeetCode/blob/master/src/leetcode/editor/cn/P56MergeIntervals.java)  
 
 - 链表
 - 字符串
